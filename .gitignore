@@ -1,0 +1,5 @@
+output/app.*
+output/app
+output/*.obj
+
+*.exe
